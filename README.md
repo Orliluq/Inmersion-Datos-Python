@@ -33,7 +33,7 @@ Este proyecto utiliza Python y las siguientes bibliotecas:
 1. Abre el archivo en Google Colab:
    - Sube el archivo `credito_banco_aleman_inmersion_Dia1.ipynb` directamente a Google Colab.
    - O haz clic en el botón a continuación si lo configuras en un repositorio público:
-     [![Abrir en Colab](https://github.com/alura-es-cursos/Inmersion-en-Datos-con-Python/blob/aula01/credito_banco_aleman_inmersion_Dia1.ipynb)
+     [Abrir en Colab](https://github.com/alura-es-cursos/Inmersion-en-Datos-con-Python/blob/aula01/credito_banco_aleman_inmersion_Dia1.ipynb)
 
 2. Instala los requisitos si es necesario:
    ```python
