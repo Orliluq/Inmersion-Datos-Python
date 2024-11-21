@@ -30,6 +30,20 @@ Este proyecto utiliza Python y las siguientes bibliotecas:
 - `scikit-learn` (opcional para tareas adicionales)
 
 ## Uso
-1. Clona este repositorio:
-   ```
-   git clone https://github.com/usuario/proyecto-credito-banco-aleman.git
+1. Abre el archivo en Google Colab:
+   - Sube el archivo `credito_banco_aleman_inmersion_Dia1.ipynb` directamente a Google Colab.
+   - O haz clic en el botón a continuación si lo configuras en un repositorio público:
+     [![Abrir en Colab](https://github.com/alura-es-cursos/Inmersion-en-Datos-con-Python/blob/aula01/credito_banco_aleman_inmersion_Dia1.ipynb)
+
+2. Instala los requisitos si es necesario:
+   ```python
+   !pip install pandas numpy matplotlib seaborn scikit-learn
+
+3. Ejecuta las celdas en el orden indicado.
+
+## Notas Adicionales
+Este análisis está basado en un conjunto de datos ficticio representativo del sector financiero. Los resultados y visualizaciones pueden utilizarse para comprender mejor el riesgo crediticio.
+
+## Autor
+Orli Dun
+[![LinkedIn](https://www.linkedin.com/in/orlibetdungonzalez)
