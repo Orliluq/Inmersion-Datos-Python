@@ -33,7 +33,9 @@ Este proyecto utiliza Python y las siguientes bibliotecas:
 1. Abre el archivo en Google Colab:
    - Sube el archivo `credito_banco_aleman_inmersion_Dia1.ipynb` directamente a Google Colab.
    - O haz clic en el botón a continuación si lo configuras en un repositorio público:
-     [Abrir en Colab](https://github.com/alura-es-cursos/Inmersion-en-Datos-con-Python/blob/aula01/credito_banco_aleman_inmersion_Dia1.ipynb)
+     [<a target="_blank" href="https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>](https://github.com/alura-es-cursos/Inmersion-en-Datos-con-Python/blob/aula01/credito_banco_aleman_inmersion_Dia1.ipynb)
 
 2. Instala los requisitos si es necesario:
    ```python
@@ -46,4 +48,4 @@ Este análisis está basado en un conjunto de datos ficticio representativo del 
 
 ## Autor
 Orli Dun
-[![LinkedIn](https://www.linkedin.com/in/orlibetdungonzalez)
+[LinkedIn](https://www.linkedin.com/in/orlibetdungonzalez)
